@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"github.com/daniel/go-rest-api/controllers"
-	"github.com/daniel/go-rest-api/middlewares"
+	"github.com/danielajen/go-rest-api/controllers"
+	"github.com/danielajen/go-rest-api/middlewares"
 	"github.com/gofiber/fiber/v2"
 )
 
