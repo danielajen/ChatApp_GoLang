@@ -4,8 +4,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/daniel/go-rest-api/database"
-	"github.com/daniel/go-rest-api/models"
+	"github.com/danielajen/go-rest-api/database"
+	"github.com/danielajen/go-rest-api/models"
 	"github.com/gofiber/fiber/v2"
 	"github.com/golang-jwt/jwt/v5"
 )
